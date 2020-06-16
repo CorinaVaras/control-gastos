@@ -58,7 +58,7 @@ class Interfaz {
         li.innerHTML = `
             ${nombre}
             <span class='badge badge-primary badge-pill'> $ ${cantidad}</span>
-        `;
+        `
 
         // Insertar al html
         gastosListado.appendChild(li);
