@@ -1,5 +1,5 @@
 // Variables
-const userBudget = prompt('¿Cuál es tu presupuesto semanal?')
+const userBudget = prompt('¡Bienvenid@! Para comenzar ingresa tu presupuesto')
 const formulario = document.getElementById('agregar-gasto');
 let cantidadPresupuesto;
 
