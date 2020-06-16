@@ -1,3 +1,4 @@
-# Control de gastos 
+# Control de Gastos 
 
-App web para organizar tus finanzas 
+[Control de gastos](https://corinavaras.github.io/control-gastos/src/) Es una aplicación web y móvil desarrollada con el objetivo de organizar tus finanzas, muy fácil de usar y dirijida a todo tipo de usuarios.  
+
