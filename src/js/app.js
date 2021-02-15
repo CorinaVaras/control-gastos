@@ -8,7 +8,7 @@ let cantidadPresupuesto;
 // Clases
 
 // Clase de Presupuesto
-class Presupuesto {
+class PresupuestoB {
     constructor(presupuesto){
         this.presupuesto = Number(presupuesto);
         this.restante = Number(presupuesto);
